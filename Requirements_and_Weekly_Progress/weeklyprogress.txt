@@ -1,0 +1,16 @@
+Week 1:
+We allocated the work for the frontend.
+We reorganised the folder structure to fix the broken links.
+We cleaned up and removed files that weren't required for the experiment such as PHP files.
+We set up the UI for the experiment.
+
+Week 2:
+We added the content of the experiment. Removed unnecessary elements from the source of the HTML like Owl Carousel. Finished the frontend.
+Created Database containing the Language, corpus, algorithm, feature and accuracy.
+For backend created app.py which uses flask.
+All the python files were created.
+Re-Created Experiment.js to print the output.
+We added Comments too.
+Creted tester files to check if the database is correct and if all the webpages aye loading correctly. They use pytest. 
+
+
